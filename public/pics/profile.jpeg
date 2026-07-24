@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" fill="#111113"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="400" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18181b"/>
+      <stop offset="1" stop-color="#0a0a0b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="200" y1="100" x2="200" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c9a962" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#c9a962" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#g)"/>
+  <ellipse cx="200" cy="420" rx="120" ry="80" fill="url(#accent)"/>
+  <circle cx="200" cy="180" r="70" fill="#27272a"/>
+  <path d="M80 500c20-80 60-120 120-120s100 40 120 120" fill="#27272a"/>
+  <text x="200" y="460" text-anchor="middle" fill="#71717a" font-family="Georgia, serif" font-size="14" letter-spacing="3">M A NASIR</text>
+</svg>
