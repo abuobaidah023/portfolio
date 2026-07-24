@@ -1,13 +1,13 @@
 export const personal = {
   fullName: "M Abuobaidah Nasir",
-  shortName: "M Abuobaida Nasir",
+  shortName: "M Abuobaidah Nasir",
   dob: "October 13, 2001",
   title: "SEO Specialist & Organic Marketing Consultant",
   tagline: "Organic visibility engineered for measurable growth",
   email: "abuobaidah023@gmail.com",
   phone: "+92 305 4408804",
   phoneHref: "tel:+923054408804",
-  whatsappHref: "https://wa.me/923054408804",
+  whatsappHref: "https://wa.me/923164753424",
   location: "Pakistan · Remote Worldwide",
   profileImage: "/pics/profile.jpeg",
   background: [
@@ -37,11 +37,10 @@ export const personal = {
 } as const;
 
 export const siteMeta = {
-  title: "M Abuobaida Nasir — SEO & Organic Marketing Consultant",
+  title: "M Abuobaidah Nasir — SEO & Organic Marketing Consultant",
   description:
     "SEO Specialist focused on Local SEO, Google Business Profile rankings, Technical Audits, E-commerce SEO, and Generative Engine Optimization (GEO/AIO).",
-  url: "https://abuobaida-nasir.com",
-  notification:
+   notification:
     "Free Initial SEO Audit & GBP Assessment Available — Book your complimentary strategy session today.",
 } as const;
 
